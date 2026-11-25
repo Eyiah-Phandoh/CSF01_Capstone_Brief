@@ -1,4 +1,4 @@
-# CSF01 Capstone Brief
+# CSF01 Capstone Set 2
 
 Cybersecurity Fundamentals capstone submission.
 
